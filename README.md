@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre Mim
 
-Olá! Me chamo *Samuel Costa Binas* e estou iniciando minha jornada na área de *Ciência da Computação, também desenvolvendo conhecimentos através do curso de **Análise e Desenvolvimento de Sistemas (ADS)*.
+Olá! Me chamo *Samuel Costa Binas* e estou iniciando minha jornada na área de *Ciência da Computação, também desenvolvendo conhecimentos através do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 Desde o início, tenho me interessado bastante pelas possibilidades que a área de tecnologia oferece, e estou em constante aprendizado, desenvolvendo habilidades que me permitirão atuar profissionalmente com desenvolvimento, análise e resolução de problemas computacionais.
 
