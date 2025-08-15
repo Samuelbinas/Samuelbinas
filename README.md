@@ -4,7 +4,7 @@ Olá! Me chamo *Samuel Binas* e estou iniciando minha jornada na área de *Ciên
 
 Desde o início, tenho me interessado bastante pelas possibilidades que a área de tecnologia oferece, e estou em constante aprendizado, desenvolvendo habilidades que me permitirão atuar profissionalmente com desenvolvimento, análise e resolução de problemas computacionais.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuelbinas&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelbinas&layout=compact&theme=dark&langs_count=6)
 ---
 
